@@ -2,7 +2,7 @@
 
 int main() {
   int dog_age;
-  std::string dog_name;
+  std::string dog_name; 
   
   std::cout<<"Enter your dog's name:\n";
   std::cin>>dog_name;
