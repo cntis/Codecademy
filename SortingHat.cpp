@@ -23,7 +23,7 @@ int main() {
     }
   else if(answer1==4){
     slytherin=slytherin+1;
-  }
+  } 
   else{
     std::cout<<"Invalid input\n";
   }
